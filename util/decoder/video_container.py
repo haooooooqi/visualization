@@ -6,8 +6,6 @@ import sys
 import tempfile
 from io import BytesIO
 
-import av
-
 import common.thread_safe_fork
 import pycurl
 import ti.urlgen.everstore_url_py as everstore_url_py
