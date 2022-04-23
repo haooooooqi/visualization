@@ -6,9 +6,6 @@ import sys
 import tempfile
 from io import BytesIO
 
-import pycurl
-import ti.urlgen.everstore_url_py as everstore_url_py
-
 
 def get_video_container(handle, multi_thread_decode=False):
     # Use local data.
