@@ -19,6 +19,8 @@ This is a PyTorch/GPU re-implementation of the paper [Masked Autoencoders As Spa
 
 * This repo is based on [`timm==0.3.2`](https://github.com/rwightman/pytorch-image-models), for which a [fix](https://github.com/rwightman/pytorch-image-models/issues/420#issuecomment-776459842) is needed to work with PyTorch 1.8.1+.
 
+
+
 ### Catalog
 
 - [x] Visualization demo
@@ -26,6 +28,17 @@ This is a PyTorch/GPU re-implementation of the paper [Masked Autoencoders As Spa
 - [x] Pre-training code
 
 ### Visualization demo
+
+
+Visualization of MAE output with 98% mask rate. 
+<div align="center">
+  <img src="mr-95-demo-vid-0.gif" width="600px"/> <img src="mr-95-demo-vid-1.gif" width="600px"/>
+</div>
+
+Visualization of MAE output with 95% mask rate.
+<div align="center">
+  <img src="mr-98-demo-vid-0.gif" width="600px"/> <img src="mr-98-demo-vid-1.gif" width="600px"/>
+</div>
 
 Run our interactive visualization demo using [Colab notebook](https://colab.research.google.com/github/haooooooqi/visualization/blob/main/video_mae_visualize.ipynb) (no GPU needed):
 <p align="center">
