@@ -52,9 +52,9 @@ The following table provides the pre-trained checkpoints used in the paper, conv
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="bottom"></th>
-<th valign="bottom">ViT-Base K400</th>
-<th valign="bottom">ViT-Large K400</th>
-<th valign="bottom">ViT-Huge K400</th>
+<th valign="bottom">ViT-Base</th>
+<th valign="bottom">ViT-Large</th>
+<th valign="bottom">ViT-Huge</th>
   
 <!-- TABLE BODY -->
 <tr><td align="left">pre-trained checkpoint on Kinetics-400</td>
@@ -74,9 +74,9 @@ The following table provides the pre-trained checkpoints used in the paper, conv
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="bottom"></th>
-<th valign="bottom">ViT-Base K600</th>
-<th valign="bottom">ViT-Large K600</th>
-<th valign="bottom">ViT-Huge K600</th>
+<th valign="bottom">ViT-Base</th>
+<th valign="bottom">ViT-Large</th>
+<th valign="bottom">ViT-Huge</th>
   
 
 <tr><td align="left">pre-trained checkpoint on Kinetics-600</td>
@@ -96,9 +96,9 @@ The following table provides the pre-trained checkpoints used in the paper, conv
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="bottom"></th>
-<th valign="bottom">ViT-Base IG</th>
-<th valign="bottom">ViT-Large IG</th>
-<th valign="bottom">ViT-Huge IG</th>
+<th valign="bottom">ViT-Base</th>
+<th valign="bottom">ViT-Large</th>
+<th valign="bottom">ViT-Huge</th>
   
 
 <tr><td align="left">pre-trained checkpoint on Instagram</td>
