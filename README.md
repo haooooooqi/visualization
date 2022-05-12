@@ -56,12 +56,6 @@ The following table provides the pre-trained checkpoints used in the paper, conv
 <th valign="bottom">ViT-Large K400</th>
 <th valign="bottom">ViT-Huge K400</th>
   
-<th valign="bottom">ViT-Large K600</th>
-<th valign="bottom">ViT-Huge K600</th>
-  
-<th valign="bottom">ViT-Large IG</th>
-<th valign="bottom">ViT-Huge IG</th>
-  
 <!-- TABLE BODY -->
 <tr><td align="left">pre-trained checkpoint on Kinetics-400</td>
 <td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_base_k400.pth">download</a></td>
@@ -76,6 +70,14 @@ The following table provides the pre-trained checkpoints used in the paper, conv
 </tr>
 </tbody></table>
 
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom"></th>
+<th valign="bottom">ViT-Base K600</th>
+<th valign="bottom">ViT-Large K600</th>
+<th valign="bottom">ViT-Huge K600</th>
+  
 
 <tr><td align="left">pre-trained checkpoint on Kinetics-600</td>
 <td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_base_k400.pth">download</a></td>
@@ -90,6 +92,14 @@ The following table provides the pre-trained checkpoints used in the paper, conv
 </tr>
 </tbody></table>
 
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom"></th>
+<th valign="bottom">ViT-Base IG</th>
+<th valign="bottom">ViT-Large IG</th>
+<th valign="bottom">ViT-Huge IG</th>
+  
 
 <tr><td align="left">pre-trained checkpoint on IG</td>
 <td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_base_k400.pth">download</a></td>
