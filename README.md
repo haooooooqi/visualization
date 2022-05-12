@@ -63,30 +63,47 @@ The following table provides the pre-trained checkpoints used in the paper, conv
 <th valign="bottom">ViT-Huge IG</th>
   
 <!-- TABLE BODY -->
-<tr><td align="left">pre-trained checkpoint</td>
+<tr><td align="left">pre-trained checkpoint on Kinetics-400</td>
 <td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_base_k400.pth">download</a></td>
 <td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k400.pth">download</a></td>
 <td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k400.pth">download</a></td>
-  
-<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k600.pth">download</a></td>
-<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k600.pth">download</a></td>
-  
-<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_ig.pth">download</a></td>
-<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_ig.pth">download</a></td>
 </tr>
 <tr><td align="left">md5</td>
   
 <td align="center"><tt>-</tt></td>
 <td align="center"><tt>-</tt></td>
 <td align="center"><tt>-</tt></td>
+</tr>
+</tbody></table>
+
+
+<tr><td align="left">pre-trained checkpoint on Kinetics-600</td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_base_k400.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k400.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k400.pth">download</a></td>
+</tr>
+<tr><td align="left">md5</td>
   
 <td align="center"><tt>-</tt></td>
-<td align="center"><tt>-</tt></td>
-  
 <td align="center"><tt>-</tt></td>
 <td align="center"><tt>-</tt></td>
 </tr>
 </tbody></table>
+
+
+<tr><td align="left">pre-trained checkpoint on IG</td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_base_k400.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k400.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k400.pth">download</a></td>
+</tr>
+<tr><td align="left">md5</td>
+  
+<td align="center"><tt>-</tt></td>
+<td align="center"><tt>-</tt></td>
+<td align="center"><tt>-</tt></td>
+</tr>
+</tbody></table>
+
 
 The fine-tuning instruction is in [FINETUNE.md](FINETUNE.md).
 
