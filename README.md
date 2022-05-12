@@ -47,7 +47,7 @@ Run our interactive visualization demo using [Colab notebook](https://colab.rese
 
 ### Fine-tuning with pre-trained checkpoints
 
-The following table provides the pre-trained checkpoints used in the paper, converted from TF/TPU to PT/GPU:
+The following table provides the pre-trained checkpoints used in the paper, converted from PySlowFast codebase:
 <table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
