@@ -52,19 +52,39 @@ The following table provides the pre-trained checkpoints used in the paper, conv
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="bottom"></th>
-<th valign="bottom">ViT-Base</th>
-<th valign="bottom">ViT-Large</th>
-<th valign="bottom">ViT-Huge</th>
+<th valign="bottom">ViT-Base K400</th>
+<th valign="bottom">ViT-Large K400</th>
+<th valign="bottom">ViT-Huge K400</th>
+  
+<th valign="bottom">ViT-Large K600</th>
+<th valign="bottom">ViT-Huge K600</th>
+  
+<th valign="bottom">ViT-Large IG</th>
+<th valign="bottom">ViT-Huge IG</th>
+  
 <!-- TABLE BODY -->
 <tr><td align="left">pre-trained checkpoint</td>
-<td align="center"><a href="https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_base.pth">download</a></td>
-<td align="center"><a href="https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_large.pth">download</a></td>
-<td align="center"><a href="https://dl.fbaipublicfiles.com/mae/pretrain/mae_pretrain_vit_huge.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_base_k400.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k400.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k400.pth">download</a></td>
+  
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k600.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k600.pth">download</a></td>
+  
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_ig.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_ig.pth">download</a></td>
 </tr>
 <tr><td align="left">md5</td>
-<td align="center"><tt>8cad7c</tt></td>
-<td align="center"><tt>b8b06e</tt></td>
-<td align="center"><tt>9bdbb0</tt></td>
+  
+<td align="center"><tt>-</tt></td>
+<td align="center"><tt>-</tt></td>
+<td align="center"><tt>-</tt></td>
+  
+<td align="center"><tt>-</tt></td>
+<td align="center"><tt>-</tt></td>
+  
+<td align="center"><tt>-</tt></td>
+<td align="center"><tt>-</tt></td>
 </tr>
 </tbody></table>
 
