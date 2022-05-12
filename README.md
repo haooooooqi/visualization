@@ -30,14 +30,14 @@ This is a PyTorch/GPU re-implementation of the paper [Masked Autoencoders As Spa
 ### Visualization demo
 
 
-Visualization of MAE output with 98% mask rate. 
+Visualization of MAE output with 95% (left) and 98% (right) mask rate on the same video. 
 <div align="center">
-  <img src="mr-95-demo-vid-0.gif" width="600px"/> <img src="mr-95-demo-vid-1.gif" width="600px"/>
+  <img src="mr-95-demo-vid-0.gif" width="500px"/> <img src="mr-98-demo-vid-0.gif" width="500px"/>
 </div>
 
 Visualization of MAE output with 95% mask rate.
 <div align="center">
-  <img src="mr-98-demo-vid-0.gif" width="600px"/> <img src="mr-98-demo-vid-1.gif" width="600px"/>
+  <img src="mr-95-demo-vid-1.gif" width="500px"/> <img src="mr-98-demo-vid-1.gif" width="500px"/>
 </div>
 
 Run our interactive visualization demo using [Colab notebook](https://colab.research.google.com/github/haooooooqi/visualization/blob/main/video_mae_visualize.ipynb) (no GPU needed):
