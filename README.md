@@ -101,7 +101,7 @@ The following table provides the pre-trained checkpoints used in the paper, conv
 <th valign="bottom">ViT-Huge IG</th>
   
 
-<tr><td align="left">pre-trained checkpoint on IG</td>
+<tr><td align="left">pre-trained checkpoint on Instagram</td>
 <td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_base_k400.pth">download</a></td>
 <td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k400.pth">download</a></td>
 <td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k400.pth">download</a></td>
