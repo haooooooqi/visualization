@@ -29,7 +29,7 @@ This is a PyTorch/GPU re-implementation of the paper [Masked Autoencoders As Spa
 
 Run our interactive visualization demo using [Colab notebook](https://colab.research.google.com/github/haooooooqi/visualization/blob/main/video_mae_visualize.ipynb) (no GPU needed):
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/11435359/147859292-77341c70-2ed8-4703-b153-f505dcb6f2f8.png" width="600">
+  <img src="https://github.com/haooooooqi/visualization/blob/main/demo-preview.png" width="600">
 </p>
 
 ### Fine-tuning with pre-trained checkpoints
