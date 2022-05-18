@@ -47,7 +47,7 @@ Run our interactive visualization demo using [Colab notebook](https://colab.rese
 
 ### Fine-tuning with pre-trained checkpoints
 
-The following table provides the pre-trained checkpoints used in the paper, converted from PySlowFast codebase:
+The following table provides the pre-trained checkpoints used in the paper, pretrained with 90% mask ratio and 1600 effective epochs, converted from PySlowFast codebase:
 <table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
