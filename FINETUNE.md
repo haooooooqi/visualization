@@ -1,6 +1,6 @@
 ## Fine-tuning Pre-trained MAE for Classification
 
-### Evaluation
+### 30 View Test
 
 As a sanity check, run evaluation using our ImageNet **fine-tuned** models:
 
