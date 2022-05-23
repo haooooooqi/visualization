@@ -5,11 +5,11 @@
 </p>
 
 
-This is a PyTorch/GPU re-implementation of the paper [Masked Autoencoders As Spatiotemporal Learners](https://arxiv.org/abs/xxxx.xxxxx):
+This is a PyTorch/GPU re-implementation of the paper [Masked Autoencoders As Spatiotemporal Learners](https://arxiv.org/abs/2205.09113):
 ```
 @Article{MaskedAutoencodersSpatiotemporal2022,
   author  = {Christoph Feichtenhofer and Haoqi Fan and Yanghao Li and Kaiming He},
-  journal = {arXiv:xxxx.xxxxx},
+  journal = {arXiv:2205.09113},
   title   = {Masked Autoencoders As Spatiotemporal Learners},
   year    = {2022},
 }
