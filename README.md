@@ -76,8 +76,8 @@ The following table provides the pre-trained checkpoints used in the paper, pret
   
 
 <tr><td align="left">pre-trained checkpoint on Kinetics-600</td>
-<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k400.pth">download</a></td>
-<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k400.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k600.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k600.pth">download</a></td>
 </tr>
 <tr><td align="left">md5</td>
   
@@ -95,8 +95,8 @@ The following table provides the pre-trained checkpoints used in the paper, pret
   
 
 <tr><td align="left">pre-trained checkpoint on Kinetics-700</td>
-<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k400.pth">download</a></td>
-<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k400.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_large_k700.pth">download</a></td>
+<td align="center"><a href="https://dl.fbaipublicfiles.com/video-mae/pretrain/mae_pretrain_vit_huge_k700.pth">download</a></td>
 </tr>
 <tr><td align="left">md5</td>
   
