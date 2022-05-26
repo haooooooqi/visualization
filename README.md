@@ -64,7 +64,6 @@ The following table provides the pre-trained checkpoints used in the paper, pret
   
 <td align="center"><tt>-</tt></td>
 <td align="center"><tt>-</tt></td>
-<td align="center"><tt>-</tt></td>
 </tr>
 </tbody></table>
 
@@ -84,7 +83,6 @@ The following table provides the pre-trained checkpoints used in the paper, pret
   
 <td align="center"><tt>-</tt></td>
 <td align="center"><tt>-</tt></td>
-<td align="center"><tt>-</tt></td>
 </tr>
 </tbody></table>
 
@@ -102,7 +100,6 @@ The following table provides the pre-trained checkpoints used in the paper, pret
 </tr>
 <tr><td align="left">md5</td>
   
-<td align="center"><tt>-</tt></td>
 <td align="center"><tt>-</tt></td>
 <td align="center"><tt>-</tt></td>
 </tr>
